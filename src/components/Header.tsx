@@ -1,5 +1,4 @@
 import {
-  EuiButtonIcon,
   EuiButton,
   EuiFlexGroup,
   EuiFlexItem,

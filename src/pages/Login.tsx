@@ -12,7 +12,6 @@ import {
 import logo from "../assets/connectify.png";
 import animation from "../assets/animation.gif";
 
-import React from "react";
 import {
   GoogleAuthProvider,
   onAuthStateChanged,

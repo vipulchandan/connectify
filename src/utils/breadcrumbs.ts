@@ -6,6 +6,9 @@ export const getDashboardBreadCrumbs = (
 ): Array<BreadCrumbsType> => [
   {
     text: "Dashboard",
+    onClick: () => {
+      navigate("/");
+    },
   },
 ];
 
